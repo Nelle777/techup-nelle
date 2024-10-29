@@ -1,0 +1,26 @@
+/*
+h1{
+    color: rgba(255, 64, 0, 0.818);
+    background-color: rgba(255, 0, 102, 0.224);
+
+    text-align: center;
+    border: 7px rgba(255, 64, 0, 0.818) solid;
+
+    margin-bottom: 50px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+*/
+
+h1 {
+    color: red;
+}
+
+.title{
+        background-color: aliceblue;
+}
+
+#important{
+    color: yellow;
+}
